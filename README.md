@@ -35,6 +35,8 @@ I am currently writing a blog of my experience at Makers Academy and my introduc
 - https://medium.com/p/b9f47cbc28c8/edit
 
 
+
+
 - I achieved A during my work at B (job, or otherwise)
 - I contributed to the growth of X while doing Y (job, or otherwise)
 - I built this, made this, broke this, fixed this, etc.
@@ -53,6 +55,9 @@ I first developed an interest in coding whilst at university, signing up to vari
 I have developed a good understanding of the workings of Ruby and the Command Line within a month of starting the Makers Academy Precourse. This has been self taught, using tutorials that Makers Academy provide.
 
 - Great collaborator [PROVIDE EVIDENCE]
+
+
+
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
