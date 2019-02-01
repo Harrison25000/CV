@@ -45,9 +45,11 @@ I am currently writing a blog of my experience at Makers Academy and my introduc
 #### Makers Academy 07/01/19-24/04/19
 
 - Curious and passionate about code. [PROVIDE EVIDENCE]
+
 I first developed an interest in coding whilst at university, signing up to various beginner coding websites and completing the codeacademy HTML5 beginner course.
 
 - Fast, independent learner [PROVIDE EVIDENCE]
+
 I have developed a good understanding of the workings of Ruby and the Command Line within a month of starting the Makers Academy Precourse. This has been self taught, using tutorials that Makers Academy provide.
 
 - Great collaborator [PROVIDE EVIDENCE]
