@@ -86,6 +86,7 @@ I have developed a good understanding of the workings of Ruby and the Command Li
 ### Hurun Report| London | Summer 2016/17/18
 
 Personal Assistant to the Chairman:
+
 o	For the past three years I have aided in the daily background workings of the London summer event for the Hurun Report, making sure the events all ran smoothly.
 o	I learnt to work with Asian nationals and this gave me an opportunity to use collaboration skills I acquired during my TEFL training.
 o	Patience and understanding were key, especially when there were language barriers, and I had to regularly use my own initiative to respond quickly when unexpected situations occurred.
@@ -93,6 +94,7 @@ o	Patience and understanding were key, especially when there were language barri
 ### The Golden Ball Pub | Maidenhead | August 2017
 
 Barman & Waiter:
+
 o	Working for my local pub behind the bar and as a waiter in the restaurant.
 o	I learnt to engage with a range of customers and work with a great staff team.
 
