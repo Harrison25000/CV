@@ -1,6 +1,25 @@
-## Oliver Harrison
 
-Graduate from the University of Bangor with an upper second class honours degree in Sociology (BA). I am a highly focused and determined individual with proven leadership skills and achievements in numerous extra-curricular activities. Currently studying in London at Makers Academy, training in Ruby & JavaScript.
+<h1 align= "center">Oliver Harrison</h1>
+
+<p align="center">
+  <a href="https://medium.com/@ofcharrison">
+    <img src="http://www.webmasto.com/wp-content/uploads/2017/08/Medium-App-Icon-2017.png"   alt="medium" hspace="50" height="42" width="42""></a>
+    <a href="https://www.linkedin.com/in/oliver-harrison-5b9a35165/">
+   <img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
+
+  [About ](#about) |
+  [Projects ](#projects) |
+  [Skills ](#skills) |
+  [Experience](#experience) |
+  [Education ](#education) |
+  [Interests ](#interests) |
+</p>
+
+## About
+Graduate from the University of Bangor with an upper second class honours degree in Sociology (BA). I am a highly focused and determined individual with proven leadership skills and achievements in numerous extra-curricular activities. I have recently graduated from Makers Academy bootcamp, where I have developed experienced programming skills in Ruby, Javascript
+
+## Projects
+
 
 ## Skills
 
@@ -104,4 +123,6 @@ Barman & Waiter:
 
 o	Working for my local pub behind the bar and as a waiter in the restaurant.
 o	I learnt to engage with a range of customers and work with a great staff team.
+
+## Interests
 
