@@ -16,9 +16,14 @@
 </p>
 
 ## About
-Graduate from the University of Bangor with an upper second class honours degree in Sociology (BA). I am a highly focused and determined individual with proven leadership skills and achievements in numerous extra-curricular activities. I have recently graduated from Makers Academy bootcamp, where I have developed experienced programming skills in Ruby, Javascript
+Graduate from the University of Bangor with an upper second class honours degree in Sociology (BA). I am a highly focused and determined individual with proven leadership skills and achievements in numerous extra-curricular activities. I have recently graduated from Makers Academy bootcamp, where I have developed experienced programming skills in Ruby & Javascript along with using various other frameworks & languages (Python, Ruby on Rails, Rspec, Jasmine, Capybara, Heroku
 
 ## Projects
+| Title | Description | Technologies Used | Testing Frameworks & Linters |
+|--|--|--|--|
+| [Movie_Rating](https://github.com/Harrison25000/Movie_Rating) | I am particularly proud of this side project of mine. Programmed in JavaScript (with use of JQuery & NodeJS) and deployed on the heroku web servers. It uses the OMDB API to query information from the International Movie DataBase (IMDB), Metacritic & Rotten Tomatoes platforms. The app displays scores from each platform for each film or tv show searched for, and then averages the three scores to provide an overall ‘Harrison Score’. | JavaScript, JQuery, NodeJS, Heroku | - |
+| [DOSA_dontworrybehappy](https://github.com/Harrison25000/DOSA_dontworrybehappy) | For our final group project at Makers Academy, my team of four decided to make a machine learning app in python, using modelled recognition of facial images to identify emotions. We trained the model on 60,000 images (mixing animated & human faces) using a complex convolutional neural network. We then displayed it through a library (​opencv2​ - CascadeClassifier - detectMultiScale) which ran facial recognition through our webcams. | Python, Jupyter Notebook, Keras, Tensorflow, Opencv2 | Manual Testing System |
+| [Instagram_challenge](https://github.com/Harrison25000/instagram-challenge) | This challenge required initiative to go and find appropriate applications that would enable you to store images within a database. This led me to 'Paperclip', a gem for Ruby, intended as an easy file attachment library for ActiveRecord. This then allowed me to pass an image through a form, adding a title and description, and then to could be viewed on an additional page alongside all the other images submitted. | Ruby on Rails, Paperclip, SQL, Capybara, ActiveRecord | RSpec, Rubocop |
 
 
 ## Skills
@@ -26,9 +31,9 @@ Graduate from the University of Bangor with an upper second class honours degree
 #### Teaching English as a Foreign Language (TEFL) Course | London, Holborn | November 2014
 
 o	Completed the 120 hour course with a merit certification.
-o	I learnt to adapt my understanding of English and apply it to a teaching format.
-o	I created lesson plans and class schedules and teaching plans for all types of students.
-o	I worked with a small group of people across a wide age range
+o	I learnt to adapt my understanding of the English language and apply it to a teaching format.
+o	I created lesson plans, class schedules and teaching plans for all types of students.
+o	I worked with a small group of people across a wide age range.
 
 - Experience
 - Achievements
@@ -60,6 +65,8 @@ I am currently writing a blog of my experience at Makers Academy and my introduc
 - I contributed to the growth of X while doing Y (job, or otherwise)
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
+
+## Experience
 
 ## Education
 
@@ -107,7 +114,6 @@ I have developed a good understanding of the workings of Ruby and the Command Li
 
 
 
-## Experience
 
 ### Hurun Report| London | Summer 2016/17/18
 
