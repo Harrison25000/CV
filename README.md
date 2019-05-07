@@ -33,7 +33,11 @@ Graduate from the University of Bangor with an upper second class honours degree
 
 ## Skills
 
-#### Teaching English as a Foreign Language (TEFL) Course | London, Holborn | November 2014
+#### Programming | Shoreditch, London | January 2019 - May 2019
+
+- [Education ](#education)
+
+#### Teaching English as a Foreign Language (TEFL) Course | Holborn, London | November 2014
 
 -	Completed the 120 hour course with a merit certification.
 -	I learnt to adapt my understanding of the English language and apply it to a teaching format.
