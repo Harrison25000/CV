@@ -35,20 +35,20 @@ Graduate from the University of Bangor with an upper second class honours degree
 
 #### Teaching English as a Foreign Language (TEFL) Course | London, Holborn | November 2014
 
-o	Completed the 120 hour course with a merit certification.
-o	I learnt to adapt my understanding of the English language and apply it to a teaching format.
-o	I created lesson plans, class schedules and teaching plans for all types of students.
-o	I worked with a small group of people across a wide age range.
+-	Completed the 120 hour course with a merit certification.
+-	I learnt to adapt my understanding of the English language and apply it to a teaching format.
+-	I created lesson plans, class schedules and teaching plans for all types of students.
+-	I worked with a small group of people across a wide age range.
 
 #### Silver Duke of Edinburgh Award | Charterhouse School, Godalming | 2015
 
-o	Of various tasks I had to complete, the primary one was running a school sweet shop, working with a budget, managing accounts, and controlling stock.
+-	Of various tasks I had to complete, the primary one was running a school sweet shop, working with a budget, managing accounts, and controlling stock.
 
 #### Sport
 
-o	I enjoy sport and have played in many teams, from cricket, football and rugby to hockey, racquets and Fives. 
-o	Sport has taught me to be a team player and gave me many chances to lead.
-o	At university I was a member of the surfing and zoology clubs; expanding my sporting interests and love of animals.
+-	I enjoy sport and have played in many teams, from cricket, football and rugby to hockey, racquets and Fives. 
+-	Sport has taught me to be a team player and gave me many chances to lead.
+-	At university I was a member of the surfing and zoology clubs; expanding my sporting interests and love of animals.
 
 #### Blogs
 
@@ -88,28 +88,28 @@ Although only a month long, as I had to move back to University, I worked for my
 
 Whilst studying computer programming at  Makers Academy, I learnt how to programme in Ruby, Javascript, Python, SQL and use various libraries/gems and additions to these (Machine Learning, JQuery, Ajax, Nodejs, ActiveRecord, BCrypt, Paperclip etc.) Having discovered computing as a hobby during University I decided that programming was a skill I would like to learn and develop competency in, and then to use these new skills in my work. I learnt how to create various programmes, from command line to web apps, in an array of languages. I enjoyed diving into Machine Learning for the final team project, developing a facial recognition model that can identify emotions, within a two week timeframe. This ended with a successful presentation to a room of family, friends, peers and potential employers.
 
-▪️Ruby, JavaScript, HTML5 & CSS
-▪️With experience in: Python, Ruby on Rails, SQL, Machine Learning, API’s ,JQuery, NodeJS, Ajax, ActiveRecord, Paperclip, BCrypt, Rspec, Jasmine, Sinatra, Heroku, Travis, Test Driven Development (TDD), Object-Oriented Design (OOD) and Agile processes.
-▪️Best-practice use of version-control system Github.
+- Ruby, JavaScript, HTML5 & CSS
+- With experience in: Python, Ruby on Rails, SQL, Machine Learning, API’s ,JQuery, NodeJS, Ajax, ActiveRecord, Paperclip, BCrypt, Rspec, Jasmine, Sinatra, Heroku, Travis, Test Driven Development (TDD), Object-Oriented Design (OOD) and Agile processes.
+- Best-practice use of version-control system Github.
 
 #### University of Bangor | Bangor, Gwynedd, LL57 2DG | September 2015 – July 2018
 
-▪️	Sociology (BA) Upper Second-Class Honours, Bangor
-▪️  For my dissertation I researched the contemporary rise of social conservatism. This was graded at a 2:1.
-▪️  I was a member of the zoology, surfing and tennis clubs.
+- 	Sociology (BA) Upper Second-Class Honours, Bangor
+-   For my dissertation I researched the contemporary rise of social conservatism. This was graded at a 2:1.
+-   I was a member of the zoology, surfing and tennis clubs.
 
 #### Mander Portman Woodward College | South Kensington, London, SW7 5AB | September 2013 – June 2015
 
-▪️	A Levels: Sociology – C, Media Studies – C, Ancient History - D
+- 	A Levels: Sociology – C, Media Studies – C, Ancient History - D
 
 #### Charterhouse School | Godalming, Surrey, GU7 2RS | September 2010 – June 2013
 
-▪️	IGCSE’s: Mathematics - A, English Language - A, Charterhouse English Literacy Certificate -Merit (GCSE grade A equivalent), Chemistry – A, Biology – A, Divinity – A, Physics – B, History – B, Geography - C
+- 	IGCSE’s: Mathematics - A, English Language - A, Charterhouse English Literacy Certificate -Merit (GCSE grade A equivalent), Chemistry – A, Biology – A, Divinity – A, Physics – B, History – B, Geography - C
 
 
 ## Interests
 
-▪️Coding: I am currently looking to enhance my skills in Python and it is a language I am interested in working with in the future.
-▪️Sport: I occasionally play tennis and go swimming.
-▪️Travelling: There's a lot to explore.
+- Coding: I am currently looking to enhance my skills in Python and it is a language I am interested in working with in the future.
+- Sport: I occasionally play tennis and go swimming.
+- Travelling: There's a lot to explore.
 
