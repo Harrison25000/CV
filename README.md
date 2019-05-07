@@ -72,7 +72,7 @@ Social Media Influence:
 
 A recent startup sportswear company. I set up Instagram accounts to promote the brand and wrote a blog for the company website.
 
-### Hurun Report| London | Summer 2016/17/18
+### Hurun Report | London | Summer 2016/17/18
 
 Personal Assistant to the Director:
 
