@@ -33,7 +33,7 @@ Graduate from the University of Bangor with an upper second class honours degree
 
 ## Skills
 
-#### Programming | Shoreditch, London | January 2019 - May 2019
+#### Computer Programming | Shoreditch, London | January 2019 - May 2019
 
 - [Education ](#education)
 
