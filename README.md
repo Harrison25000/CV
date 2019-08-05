@@ -13,6 +13,7 @@
   [Experience](#experience) |
   [Education ](#education) |
   [Interests ](#interests) |
+  [Contact](#contact)
 </p>
 
 
@@ -116,4 +117,9 @@ Whilst studying computer programming at  Makers Academy, I learnt how to program
 - Coding: I am currently looking to enhance my skills in Python and it is a language I am interested in working with in the future.
 - Sport: I occasionally play tennis and go swimming.
 - Travelling: There's a lot to explore.
+
+## Contact
+- I'm looking to hire.
+- My number is 07725817147
+- What's yours?
 
