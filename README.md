@@ -18,7 +18,7 @@
 
 
 ## About
-Graduate from the University of Bangor with an upper second class honours degree in Sociology (BA). I am a highly focused and determined individual with proven leadership skills and achievements in numerous extra-curricular activities. I have recently graduated from Makers Academy bootcamp, where I have developed experienced programming skills in Ruby & Javascript along with using various other frameworks & languages (Python, Ruby on Rails, Rspec, Jasmine, Capybara, Heroku
+Graduate from the University of Bangor with an upper second class honours degree in Sociology (BA). I am a highly focused and determined individual with proven leadership skills and achievements in numerous extra-curricular activities. I  graduated from Makers Academy bootcamp, where I developed experienced programming skills in Ruby & Javascript along with using various other frameworks & languages (Python, Ruby on Rails, Rspec, Jasmine, Capybara, Heroku). I am currently working at Trumin, an events management company, as a full stack developer. Learning Java and a range of new technologies(Spring Boot, Amazon Web Servers, Docker) and so on. Recently having achieved the certificate for Oracle Java SE Programmer I and now preparing for Programmer II.
 
 
 
@@ -65,6 +65,10 @@ I am wrote a blog of my experience of Makers Academy PreCourse and my introducti
 
 
 ## Experience
+
+### Trumin | London, Old Street | July 2019 - Present
+
+I am currently working as a full stack developer for Trumin, an events management company. Programming in Java on the back end, tied with Spring Boot, AWS and Docker setups. Yet also occasionally working on the very front end HTML & CSS working on design's. Whilst Java was completely new to me I believe I have picked it up quite quickly and am now quite proficient in how it works, this was especially aided by the training for the Oracle Java SE Programming qualifications (I and II), having recently achieved the certificate for the Oracle Java SE Programmer I exam.
 
 ### DeliciousFitness | Online | 2018
 
