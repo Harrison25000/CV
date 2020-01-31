@@ -28,6 +28,7 @@ Graduate from the University of Bangor with an upper second class honours degree
 | [Movie_Rating](https://github.com/Harrison25000/Movie_Rating) | I am particularly proud of this side project of mine. Programmed in JavaScript (with use of JQuery & NodeJS) and deployed on the heroku web servers (https://harrison-movie-ratings.herokuapp.com/). It uses the OMDB API to query information from the International Movie DataBase (IMDB), Metacritic & Rotten Tomatoes platforms. The app displays scores from each platform for each film or tv show searched for, and then averages the three scores to provide an overall ‘Harrison Score’. | JavaScript, JQuery, NodeJS, Heroku | Jasmine |
 | [DOSA_dontworrybehappy](https://github.com/Harrison25000/DOSA_dontworrybehappy) | For our final group project at Makers Academy, my team of four decided to make a machine learning app in python, using modelled recognition of facial images to identify emotions. We trained the model on 60,000 images (mixing animated & human faces) using a complex convolutional neural network. We then displayed it through a library (​opencv2​ - CascadeClassifier - detectMultiScale) which ran facial recognition through our webcams. | Python, Jupyter Notebook, Keras, Tensorflow, Opencv2 | Manual Testing System |
 | [Instagram_challenge](https://github.com/Harrison25000/instagram-challenge) | This challenge required initiative to go and find appropriate applications that would enable you to store images within a database. This led me to 'Paperclip', a gem for Ruby, intended as an easy file attachment library for ActiveRecord. This then allowed me to pass an image through a form, adding a title and description, and then to could be viewed on an additional page alongside all the other images submitted. | Ruby on Rails, Paperclip, SQL, Capybara, ActiveRecord | RSpec, Rubocop |
+| [Speech Recognition](https://github.com/Harrison25000/FakeAI) | A current personal project that I am working on, aiming to achieve  voice control of my RaspberryPi. Writtien in a mixture of Python and Java and using a ‘.txt’ file in-between. The Python program activates speech recognition from a microphone and converts it to a String via a Google Speech Recognition API. This then gets stored in a .txt file which gets read by the Java file and based on what you say can execute commands & talk back to you.  | Java 8, Python, various libraries: PyAudio, SpeechRecognition, flac, freeTTs | IntelliJ IDE CE, BlueJ IDE |
 
 
 
@@ -94,7 +95,7 @@ Although only a month long, as I had to move back to University, I worked for my
 
 #### Makers Academy | Shoreditch, London | January 2019 - May 2019
 
-Whilst studying computer programming at  Makers Academy, I learnt how to programme in Ruby, Javascript, Python, SQL and use various libraries/gems and additions to these (Machine Learning, JQuery, Ajax, Nodejs, ActiveRecord, BCrypt, Paperclip etc.) Having discovered computing as a hobby during University I decided that programming was a skill I would like to learn and develop competency in, and then to use these new skills in my work. I learnt how to create various programmes, from command line to web apps, in an array of languages. I enjoyed diving into Machine Learning for the final team project, developing a facial recognition model that can identify emotions, within a two week timeframe. This ended with a successful presentation to a room of family, friends, peers and potential employers.
+Whilst studying computer programming at  Makers Academy, I learned how to programme in Ruby, Javascript, Python, SQL and used various libraries/gems and additions to these (Machine Learning, JQuery, Ajax, Nodejs, ActiveRecord, BCrypt, Paperclip etc.). Having discovered computing as a hobby during University I decided that programming was a skill I would like to learn and develop competency in, and then to use these new skills in my work. I learnt how to create various programmes, from command line to web apps, in an array of languages. I enjoyed diving into Machine Learning for the final team project, developing a facial recognition model that can identify emotions, within a two week timeframe. This ended with a successful presentation to a room of family, friends, peers and potential employers.
 
 - Ruby, JavaScript, HTML5 & CSS
 - With experience in: Python, Ruby on Rails, SQL, Machine Learning, API’s ,JQuery, NodeJS, Ajax, ActiveRecord, Paperclip, BCrypt, Rspec, Jasmine, Sinatra, Heroku, Travis, Test Driven Development (TDD), Object-Oriented Design (OOD) and Agile processes.
@@ -117,7 +118,7 @@ Whilst studying computer programming at  Makers Academy, I learnt how to program
 
 ## Interests
 
-- Coding: I am currently looking to enhance my skills in Python and it is a language I am interested in working with in the future.
+- Coding: I am currently looking to enhance my skills in Java & Python as I believe they are both prominant languages used in many businesses today with the potential to explore interesting fields such as Machine Learning and game development.
 - Sport: I occasionally play tennis and go swimming.
 - Travelling: There's a lot to explore.
 
